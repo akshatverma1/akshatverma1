@@ -1,2 +1,12 @@
-- Hi, I’m Akshat v
-- Pursuing a B.Tech in Electronic Communication with a focus on Computer Science engineering. Proficient in programming languages like C, C++, Java+DSA,Javascript,HTML5,CSS and experienced with GitHub for version control ,Bootstrap & Android Studio with a successful track record of developing and launching an Android application On Google Play Store.
+# Hi, I'm Akshat V
+
+- I'm currently pursuing a B.Tech in Electronic Communication, specializing in Computer Science Engineering.
+- Proficient in programming languages like C, C++, Java (with Data Structures and Algorithms), JavaScript, HTML5, and CSS.
+- Experienced with GitHub for version control, along with Bootstrap and Android Studio.
+- Successfully developed and launched an Android application on the Google Play Store.
+
+Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
+
+---
+
+This version includes the additional information you requested. Let me know if you'd like further modifications!
