@@ -5,8 +5,4 @@
 - Experienced with GitHub for version control, along with Bootstrap and Android Studio.
 - Successfully developed and launched an Android application on the Google Play Store.
 
-Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
-
----
-
-This version includes the additional information you requested. Let me know if you'd like further modifications!
+Please scroll down to explore all my repositories, daily streaks, and consistent the additional information you requested.
