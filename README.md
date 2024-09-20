@@ -1,4 +1,4 @@
-# Hi, I'm Akshat V
+# Hi, I'm Akshat Verma
 
 - I'm currently pursuing a B.Tech in Electronic Communication, specializing in Computer Science Engineering.
 - Proficient in programming languages like C, C++, Java (with Data Structures and Algorithms), JavaScript, HTML5, and CSS.
