@@ -7,4 +7,4 @@
 
 Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
 
-![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=dark)
+![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
