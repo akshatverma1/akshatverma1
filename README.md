@@ -1,4 +1,4 @@
-# Hi, I'm Akshat Verma(https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+# Hi, I'm Akshat Verma[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 - I'm currently pursuing a B.Tech in Electronic Communication, specializing in Computer Science Engineering.
 - Proficient in programming languages like C, C++, Java (with Data Structures and Algorithms), JavaScript,Node.js,Express.js HTML5, and CSS.
