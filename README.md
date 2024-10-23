@@ -9,4 +9,4 @@ Please scroll down to explore all my repositories, daily streaks, and consistent
 
 ![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=radical)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatverma1&theme=merko)](https://github.com/akshatverma1/github-readme-activity-graph)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges) [![GitHub commits](https://badgen.net/github/commits/akshatverma1/Strapdown.js)](https://GitHub.com/akshatverma1//commit/)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges) [![GitHub commits](https://badgen.net/github/commits/akshatverma1/)](https://GitHub.com/akshatverma1//commit/)
