@@ -7,5 +7,8 @@
 - Successfully developed and launched an Android application on the Google Play Store.
 
 Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
+<div style="margin: 20px 0;">
+  This div block has a margin of 20px on the top and bottom.
+</div>
 
 ![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=radical)
