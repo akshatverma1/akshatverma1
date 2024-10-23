@@ -8,5 +8,3 @@
 Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
 
 ![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatverma1&theme=merko)](https://github.com/akshatverma1/github-readme-activity-graph)
-
