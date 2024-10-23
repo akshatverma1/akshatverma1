@@ -7,15 +7,5 @@
 - Successfully developed and launched an Android application on the Google Play Store.
 
 Please scroll down to explore all my repositories, daily streaks, and consistent contributions.
-# My Project
-
-This is a regular **Markdown** paragraph.
-
-<span style="color: green; font-weight: bold;">This is styled text with inline CSS.</span>
-
-<div style="border: 1px solid black; padding: 5px;">
-  This is a block with custom styles in the README.
-</div>
-
 
 ![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=radical)
