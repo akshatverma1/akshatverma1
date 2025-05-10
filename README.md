@@ -1,11 +1,9 @@
 # Hi, I'm Akshat Verma [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-💜 **Open For New Opportunity.**
+💜 **Open For New Opportunity.** 
+- I'm a full-stack developer with a passion for building beautiful, functional, and user-friendly websites and applications. With expertise in modern web technologies, I create solutions that help businesses grow and succeed online.
 
-- I'm currently pursuing a B.Tech in Electronic Communication, specializing in Computer Science Engineering.
-- Proficient in programming languages like C, C++, **Java** , **JavaScript** , **React.js** , **Node.js** , Express.js, HTML5, and CSS.
-- Experienced with GitHub for version control, along with Bootstrap and Android Studio.
-- Successfully developed and launched an **Android application** on the Google Play Store.
+When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities.
 
 **Please scroll down to explore all my repositories, daily streaks, and consistent contributions.**
 
