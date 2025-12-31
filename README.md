@@ -7,5 +7,3 @@ I'm a full-stack developer with a passion for building beautiful, functional, an
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying outdoor activities.
 
 **Please scroll down to explore all my repositories, daily streaks, and consistent contributions.**
-
-![Akshat Verma GitHub streaks](https://github-readme-stats.vercel.app/api?username=akshatverma1&show_icons=true&theme=radical)
